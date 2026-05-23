@@ -1,8 +1,8 @@
 # Hey, I'm Takrim 👋
 
-> CS student @ UCF · Full-stack builder · Quantum tinkerer · Graduating Dec 2026
+> CS student @ UCF · Full-stack builder · Graduating Dec 2026
 
-I build things that actually work — full-stack apps with real backends, not just pretty UIs. When I'm not doing that, I'm doing quantum computing research (yes, that's a real thing undergrads can do).
+I build things that actually work, full-stack apps with real backends, not just pretty UIs.
 
 ---
 
@@ -13,12 +13,6 @@ I build things that actually work — full-stack apps with real backends, not ju
 | [**Docuquery**](https://github.com/Paradoxical7/Docuquery) | Upload any PDF, ask it questions in plain English | Flask · OpenAI Embeddings · RAG pipeline |
 | [**irad-tracker**](https://github.com/Paradoxical7/irad-tracker) | Full-stack budget & asset tracker | FastAPI · SQLAlchemy · SQLite |
 | [**SyncedStudy**](https://github.com/Paradoxical7/SyncedStudy) | Pomodoro timer for group study sessions — synced, remote, in progress | React · Node.js · Socket.io · PostgreSQL · Redis |
-
----
-
-## 🧠 And on the research side...
-
-Co-authored an undergraduate paper on **Quantum Neural Networks** featuring a novel *White/Black Amplitude Encoding* scheme — implemented end-to-end in Qiskit. It's the kind of thing that sounds like sci-fi until you're debugging quantum circuits at midnight.
 
 ---
 
