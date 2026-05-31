@@ -1,8 +1,8 @@
 # Hey, I'm Takrim 👋
 
-> CS student @ UCF · Full-stack builder · Graduating Dec 2026
+> CS student @ UCF · Full-stack builder · Quantum ML researcher · Graduating Dec 2026
 
-I build things that actually work, full-stack apps with real backends, not just pretty UIs.
+I build things that actually work.
 
 ---
 
@@ -10,9 +10,10 @@ I build things that actually work, full-stack apps with real backends, not just 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**QNN**](https://github.com/Paradoxical7/QNN) | Quantum Neural Network for MNIST digit classification — 95% accuracy with only 24 trainable parameters | Qiskit · PyTorch · Python |
+| [**SyncedStudy**](https://github.com/Paradoxical7/SyncedStudy) | Pomodoro timer for group study sessions — synced, remote, in progress | React · Node.js · Socket.io |
 | [**Docuquery**](https://github.com/Paradoxical7/Docuquery) | Upload any PDF, ask it questions in plain English | Flask · OpenAI Embeddings · RAG pipeline |
 | [**irad-tracker**](https://github.com/Paradoxical7/irad-tracker) | Full-stack budget & asset tracker | FastAPI · SQLAlchemy · SQLite |
-| [**SyncedStudy**](https://github.com/Paradoxical7/SyncedStudy) | Pomodoro timer for group study sessions — synced, remote, in progress | React · Node.js · Socket.io · PostgreSQL · Redis |
 
 ---
 
@@ -45,4 +46,4 @@ I build things that actually work, full-stack apps with real backends, not just 
 
 ---
 
-*Always down to talk about AI, distributed systems, or why quantum computing is going to be a big deal.*
+*Always down to talk about whatever I'm building, breaking, or fixing*
