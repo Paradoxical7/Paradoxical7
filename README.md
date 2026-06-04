@@ -10,6 +10,7 @@ I build things that actually work.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**PathClear**](https://github.com/Paradoxical7/PathClear) | Real-time traffic light preemption simulator for emergency vehicles — clears a green path automatically, no hardware required | React · Leaflet.js |
 | [**QNN**](https://github.com/Paradoxical7/QNN) | Quantum Neural Network for MNIST digit classification — 95% accuracy with only 24 trainable parameters | Qiskit · PyTorch · Python |
 | [**SyncedStudy**](https://github.com/Paradoxical7/SyncedStudy) | Pomodoro timer for group study sessions — synced, remote, in progress | React · Node.js · Socket.io |
 | [**Docuquery**](https://github.com/Paradoxical7/Docuquery) | Upload any PDF, ask it questions in plain English | Flask · OpenAI Embeddings · RAG pipeline |
