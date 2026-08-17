@@ -1,5 +1,4 @@
 # Hey, I'm Takrim 👋
-
 > CS student @ UCF · Full-stack builder · Quantum ML researcher · Graduating Dec 2026
 
 I build things that actually work.
@@ -11,6 +10,7 @@ I build things that actually work.
 | Project | What it does | Stack |
 |---|---|---|
 | [**PathClear**](https://github.com/Paradoxical7/PathClear) | Real-time traffic light preemption simulator for emergency vehicles, clears a green path automatically, no hardware required (In progress..) | React · Leaflet.js |
+| [**Calorific**](https://github.com/Paradoxical7/Calorific) | Nutrition & calorie tracking web app, full auth and multi-step onboarding flow | React · Tailwind · MongoDB |
 | [**QNN**](https://github.com/Paradoxical7/QNN) | Quantum Neural Network for MNIST digit classification, 95% accuracy with only 24 trainable parameters | Qiskit · PyTorch · Python |
 | [**SyncedStudy**](https://github.com/Paradoxical7/SyncedStudy) | Pomodoro timer for group study sessions | React · Node.js · Socket.io |
 | [**Docuquery**](https://github.com/Paradoxical7/Docuquery) | Upload any PDF, ask it questions in plain English | Flask · OpenAI Embeddings · RAG pipeline |
@@ -21,7 +21,6 @@ I build things that actually work.
 ## 🛠 Tech I Reach For
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,7 +28,6 @@ I build things that actually work.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frameworks & Tools**
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
