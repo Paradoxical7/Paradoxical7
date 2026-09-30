@@ -1,5 +1,5 @@
 # Hey, I'm Takrim 👋
-> CS student @ UCF · Full-stack builder · Quantum ML researcher · Graduating Dec 2026
+> CS student @ UCF · Full-stack builder · Graduating Dec 2026
 
 I build things that actually work.
 
